@@ -1,0 +1,32 @@
+[
+    {
+        "ID": 0,
+        "productTitle": "น้ำยาล้างจาน",
+        "productDescription": "สูตร 1 ดีเลิศ",
+        "productPrice": 45
+    },
+    {
+        "ID": 1,
+        "productTitle": "น้ำยาล้างจาน2",
+        "productDescription": "สูตร 2 ดีเลิศ",
+        "productPrice": 50
+    },
+    {
+        "ID": 2,
+        "productTitle": "น้ำยาล้างจาน3",
+        "productDescription": "สูตร 3 ดีเลิศ",
+        "productPrice": 55
+    },
+    {
+        "ID": 3,
+        "productTitle": "น้ำยาล้างจาน4",
+        "productDescription": "สูตร 4 ดีเลิศ",
+        "productPrice": 60
+    },
+    {
+        "ID": 4,
+        "productTitle": "น้ำยาล้างจาน5",
+        "productDescription": "สูตร 5 ดีเลิศ",
+        "productPrice": 70
+    }
+]
