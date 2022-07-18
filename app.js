@@ -13,14 +13,14 @@ app.set("views","./src/views");
 app.set("view engine", "ejs");
 
 productRouter.route("/").get((req,res) => {
-    res.send("Im Product");
+    res.render("products");
 });
 
 productRouter.route("/1").get((req,res) => {
     res.send("Im Product1");
 });
 
-app.use("/prodocts",productRouter);
+app.use("/products",productRouter);
 
 app.get("/",(req,res) =>{
     res.render('index',{username: 'Rawipong', customer:["A","B","c"]});
